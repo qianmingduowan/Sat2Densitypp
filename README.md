@@ -32,7 +32,16 @@ We propose **Sat2Density++**, a novel framework for high-quality street-view vid
 If you find our work or code useful for your research, please cite:
 
 ```bibtex
-@ARTICLE{11344749,
+@InProceedings{Qian_2023_Sat2Density,
+    author    = {Qian, Ming and Xiong, Jincheng and Xia, Gui-Song and Xue, Nan},
+    title     = {Sat2Density: Faithful Density Learning from Satellite-Ground Image Pairs},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {3683-3692}
+}
+
+@ARTICLE{Qian_2026_Sat2Densitypp,
   author={Qian, Ming and Tan, Bin and Wang, Qiuyu and Zheng, Xianwei and Xiong, Hanjiang and Xia, Gui-Song and Shen, Yujun and Xue, Nan},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
   title={Seeing through Satellite Images at Street Views}, 
