@@ -42,14 +42,14 @@ If you find our work or code useful for your research, please cite:
 }
 
 @ARTICLE{Qian_2026_Sat2Densitypp,
-  author={Qian, Ming and Tan, Bin and Wang, Qiuyu and Zheng, Xianwei and Xiong, Hanjiang and Xia, Gui-Song and Shen, Yujun and Xue, Nan},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
-  title={Seeing through Satellite Images at Street Views}, 
-  year={2026},
-  volume={},
-  number={},
-  pages={1-18},
-  doi={10.1109/TPAMI.2026.3652860}
+    author={Qian, Ming and Tan, Bin and Wang, Qiuyu and Zheng, Xianwei and Xiong, Hanjiang and Xia, Gui-Song and Shen, Yujun and Xue, Nan},
+    journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+    title={Seeing through Satellite Images at Street Views}, 
+    year={2026},
+    volume={},
+    number={},
+    pages={1-18},
+    doi={10.1109/TPAMI.2026.3652860}
 }
 ```
 
