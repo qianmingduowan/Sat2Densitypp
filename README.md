@@ -17,9 +17,12 @@ We propose **Sat2Density++**, a novel framework for high-quality street-view vid
 ---
 
 ### 📅 TODO List
-- [ ] **By Jan 24**: Update the arXiv preprint to the journal version.
-- [ ] **By Jan 31**: Release the inference code.
-- [ ] **By Feb 16**: Release the training code.
+- [x] ~~**By Jan 24**: Update the arXiv preprint to the journal version.~~
+- [x] ~~**By Jan 31**: Release the inference code.~~
+
+> **Note**: These tasks are slightly postponed for a few days. I am currently fully occupied with finalizing graduation-related requirements. The arXiv update and inference code will be released shortly. Thanks for your patience. 🎓
+
+- [ ] Release the training code.
 
 ---
 
