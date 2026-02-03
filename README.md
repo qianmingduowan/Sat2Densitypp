@@ -17,6 +17,14 @@
 
 ---
 
+## ✅ TODO
+
+- Release data splits and sky masks
+- Release Gradio demo
+- Release training code
+
+---
+
 ## 📝 About This Work
 
 We propose **Sat2Density++**, a novel framework for high-quality street-view video synthesis from satellite imagery:
@@ -28,16 +36,7 @@ We propose **Sat2Density++**, a novel framework for high-quality street-view vid
 
 ---
 
-## ⭐ If you find this helpful, please give us a Star!
 
-If this project helps your research or work, please:
-- ⭐ **Star** this repository to support our work
-- 📝 **Cite** our paper (see Citation section below)
-- 🔗 **Share** with researchers who might be interested
-
-Your support motivates us to keep improving! 🚀
-
----
 
 ## 🔧 Installation
 
@@ -271,9 +270,14 @@ This work is built upon the following excellent open-source projects:
 
 Thanks to all researchers and developers who contributed to this project!
 
----
+Thanks to Zifan Shi, Xingxing Weng, and Chao Pang for their fruitful discussions.
 
-<p align="center">
-  <b>⭐ If this project helps you, please give us a Star! ⭐</b><br>
-  <i>Your support keeps us going!</i>
-</p>
+---
+## ⭐ If you find this helpful, please give us a Star!
+
+If this project helps your research or work, please:
+- ⭐ **Star** this repository to support our work
+- 📝 **Cite** our paper (see Citation section below)
+- 🔗 **Share** with researchers who might be interested
+
+Your support motivates us to keep improving! 🚀
