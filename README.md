@@ -40,8 +40,8 @@ conda activate sat2densitypp
 # Choose the appropriate installation command based on your CUDA version
 # See: https://pytorch.org/get-started/locally/
 
-# CUDA 11.8 example
-conda install pytorch==2.4.1 torchvision==0.19.1 torchaudio==2.4.1 pytorch-cuda=11.8 -c pytorch -c nvidia
+# CUDA 12.4 example 
+conda install pytorch==2.4.1 torchvision==0.19.1 torchaudio==2.4.1 pytorch-cuda=12.4 -c pytorch -c nvidia
 ```
 
 ### 3. Install Dependencies
