@@ -9,7 +9,7 @@
 
 **Demo assets**: you can download `demo_results/vigor/mesh.obj` to visualize the colored mesh locally.
 
-**For visualization results, please see the project page.**
+**For more visualization results, please see the [Project Page](https://qianmingduowan.github.io/sat2density-pp/).**
 
 ## 📝 About This Work
 
