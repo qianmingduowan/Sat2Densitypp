@@ -67,6 +67,7 @@ Thumbs.db
 !demo_data/**/*.csv
 !demo_data/**/*.png
 !demo_data/**/*.jpg
+!demo_results/vigor/vid.gif
 CHANGELOG.md
 CLEANUP_SUMMARY.md
 CHECKPOINT_UPLOAD_GUIDE.md
