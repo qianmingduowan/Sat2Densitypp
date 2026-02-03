@@ -18,7 +18,7 @@ We propose **Sat2Density++**, a novel framework for high-quality street-view vid
 - **Minimal Training Requirements**: It only requires $N$ pairs of GPS-matched satellite and street-view panorama images. **No** video data and **no** 3D annotations are needed during training.
 - **Flexible Inference**: Given a single satellite image and a user-defined driving trajectory, the model generates a temporally consistent panorama video.
 - **3D Scene Reconstruction**: Given a single satellite image, it can generate a colored 3D mesh scene (rough but useful for visualization).
-- **Superior Performance**: Sat2Density++ significantly outperforms the previous conference version (**Sat2Density**) in 3D shape, multi-view consistency, and image quality. Visual comparisons are available on our [Project Page](https://qianmingduowan.github.io/sat2density-pp/).
+- **Superior Performance**: Sat2Density++ significantly outperforms the previous conference version (**Sat2Density**) in 3D shape, multi-view consistency, faithfulness to the reference satellite image, and image quality. Visual comparisons are available on our [Project Page](https://qianmingduowan.github.io/sat2density-pp/).
 
 ---
 
