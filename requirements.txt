@@ -1,0 +1,26 @@
+# conda create -n sat2densitypp python=3.8
+# first install torch==2.4.1 
+rich 
+tqdm  
+scikit-learn 
+scikit-image  
+PyYAML 
+lpips  
+pytorch-msssim 
+tensorboard 
+easydict 
+cloup 
+opencv-python==4.8.0.74 
+lmdb==1.3.0 
+kornia 
+beautifulsoup4 
+scikit-video 
+dlib  
+clean-fid 
+transformers==4.44.2
+einops
+psutil
+matplotlib
+mrcfile
+open3d
+PyMCubes==0.1.4
