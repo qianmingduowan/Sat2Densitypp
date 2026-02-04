@@ -257,7 +257,7 @@ This work is built upon the following excellent open-source projects:
 
 Thanks to all researchers and developers who contributed to this project!
 
-Thanks to Zifan Shi, Xingxing Weng, and Chao Pang for their fruitful discussions.
+Thanks to Yuanbo Yang, Shuailei Ma, Wen Wang, Zifan Shi, Xingxing Weng, and Chao Pang for their fruitful discussions.
 
 ---
 ## ⭐ If you find this helpful, please give us a Star!
