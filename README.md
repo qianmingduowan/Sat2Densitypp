@@ -208,15 +208,15 @@ See `demo_data/README.md` for detailed information about the bundled demo data.
 If our work helps your research, please cite:
 
 ```bibtex
-@ARTICLE{11344749,
-  author={Qian, Ming and Tan, Bin and Wang, Qiuyu and Zheng, Xianwei and Xiong, Hanjiang and Xia, Gui-Song and Shen, Yujun and Xue, Nan},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
-  title={Seeing Through Satellite Images at Street Views}, 
-  year={2026},
-  volume={48},
-  number={5},
-  pages={5692-5709},
-  doi={10.1109/TPAMI.2026.3652860}}
+@ARTICLE{Qian_2026_Sat2Densitypp,
+    author={Qian, Ming and Tan, Bin and Wang, Qiuyu and Zheng, Xianwei and Xiong, Hanjiang and Xia, Gui-Song and Shen, Yujun and Xue, Nan},
+    journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+    title={Seeing Through Satellite Images at Street Views}, 
+    year={2026},
+    volume={48},
+    number={5},
+    pages={5692-5709},
+    doi={10.1109/TPAMI.2026.3652860}}
 
 @InProceedings{Qian_2023_Sat2Density,
     author    = {Qian, Ming and Xiong, Jincheng and Xia, Gui-Song and Xue, Nan},
