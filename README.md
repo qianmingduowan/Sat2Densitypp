@@ -271,7 +271,7 @@ Your support motivates us to keep improving! 🚀
 ---
 ## 📰 Updates
 
-- **[ICLR 2026] Sat3DGen accepted**: Our new work can generate higher-quality 3D representations from reference single satellite image input  and supports more downstream applications. Code will be released soon. Code will be released on: https://github.com/qianmingduowan/Sat3DGen
+- **[ICLR 2026] Sat3DGen accepted**: Our new work can generate higher-quality 3D representations from reference single satellite image input  and supports more downstream applications. The code has been released on: https://github.com/qianmingduowan/Sat3DGen, where the demo, project page,  training code are available. 
 
 ---
 
