@@ -23,6 +23,11 @@ We propose **Sat2Density++**, a novel framework for high-quality street-view vid
 
 ---
 
+## 📰 Updates
+
+- **[ICLR 2026] Sat3DGen accepted**: Our new work can generate higher-quality 3D representations from reference single satellite image input  and supports more downstream applications. The code has been released on: https://github.com/qianmingduowan/Sat3DGen, where the demo, project page,  training code are available. 
+
+---
 
 
 ## 🔧 Installation
@@ -269,11 +274,7 @@ If this project helps your research or work, please:
 Your support motivates us to keep improving! 🚀
 
 ---
-## 📰 Updates
 
-- **[ICLR 2026] Sat3DGen accepted**: Our new work can generate higher-quality 3D representations from reference single satellite image input  and supports more downstream applications. The code has been released on: https://github.com/qianmingduowan/Sat3DGen, where the demo, project page,  training code are available. 
-
----
 
 ## ✅ TODO
 
